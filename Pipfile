@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 jupyter = "*"
 notebook = "*"
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+tensorflow = "*"
 
 [dev-packages]
 
